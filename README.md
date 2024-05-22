@@ -6,13 +6,13 @@ NAVODILA: Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (go
 KOSOVNICA: 
 - Arduino Uno 
 - BreadBoard 
-USB kabel 
-2x LED dioda 
-Povezovalne žice 
-3x Tipke 
-2x Rele 
-3x Upor (1000Ω) 
-2x Upor (220Ω) 
-Elektro motor
+- USB kabel 
+- 2x LED dioda 
+- Povezovalne žice 
+- 3x Tipke 
+- 2x Rele 
+- 3x Upor (1000Ω) 
+- 2x Upor (220Ω) 
+- Elektro motor
 
 KOMENTAR: /////////////////////////////////////////////////
