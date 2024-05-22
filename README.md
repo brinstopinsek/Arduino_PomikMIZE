@@ -19,4 +19,7 @@ KOSOVNICA:
 
   ![VezalnaShema](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/VezalnaShema.png)
 
+
+  
+
 KOMENTAR: /////////////////////////////////////////////////
