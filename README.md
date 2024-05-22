@@ -19,6 +19,8 @@ KOSOVNICA:
 
   ![VezalnaShema](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/VezalnaShema.png)
 
+  https://github.com/brinstopinsek/Arduino_PomikMize/assets/170461048/d6dc1a42-009d-4221-b2c0-cba744af1574
+
 
   
 
