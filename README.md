@@ -15,6 +15,6 @@ KOSOVNICA:
 - 2x Upor (220Ω) 
 - Elektro motor
 
-  ![Vezje](
+  ![Vezje](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/Vezje.png)
 
 KOMENTAR: /////////////////////////////////////////////////
