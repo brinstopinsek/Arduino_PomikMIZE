@@ -15,4 +15,6 @@ KOSOVNICA:
 - 2x Upor (220Ω) 
 - Elektro motor
 
+  ![Vezje](
+
 KOMENTAR: /////////////////////////////////////////////////
