@@ -15,12 +15,23 @@ KOSOVNICA:
 - 2x Upor (220Ω) 
 - Elektro motor
 
+
 VHODI:
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | --- | --- | --- | --- |
 | S3 | Tipka | O, tipka | Za pomik mize dol |
 | S1 | Tipka | O, tipka | Za ustavitev mize |
 | S2 | Tipka | O, tipka | Za pomik mize gor |
+
+
+IZHODI:
+| Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
+| --- | --- | --- | --- |
+| D1 | LED | 12 | Zasvetlitev LED diode ob premiku gor |
+| D2 | LED | 13 | Zasvetlitev LED diode ob premiku dol |
+| K2 | Rele | 2 | Zadolžen za obračanje motorčka na desno stran |
+| K3 | Rele | 3 | Zadolžen za obračanje motorčka na levo stran |
+
 
 
   ![Vezje](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/Vezje.png)
