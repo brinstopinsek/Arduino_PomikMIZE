@@ -15,6 +15,10 @@ KOSOVNICA:
 - 2x Upor (220Ω) 
 - Elektro motor
 
+
+| Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
+| --- | --- | --- | --- |
+
   ![Vezje](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/Vezje.png)
 
   ![VezalnaShema](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/VezalnaShema.png)
