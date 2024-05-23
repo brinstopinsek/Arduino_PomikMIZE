@@ -15,9 +15,13 @@ KOSOVNICA:
 - 2x Upor (220Ω) 
 - Elektro motor
 
-
+VHODI:
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | --- | --- | --- | --- |
+| S3 | Tipka | O, tipka | Za pomik mize dol |
+| S1 | Tipka | O, tipka | Za ustavitev mize |
+| S2 | Tipka | O, tipka | Za pomik mize gor |
+
 
   ![Vezje](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/Vezje.png)
 
