@@ -16,6 +16,7 @@ KOSOVNICA:
 - Elektro motor
 
 
+
 VHODI:
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | --- | --- | --- | --- |
@@ -34,6 +35,7 @@ IZHODI:
 
 
 
+
   ![Vezje](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/Vezje.png)
 
   ![VezalnaShema](https://raw.githubusercontent.com/brinstopinsek/Arduino_PomikMize/main/VezalnaShema.png)
@@ -42,6 +44,7 @@ IZHODI:
 
 
   
+
 
 KOMENTAR:
 Projekt deluje dobro. Zelo dolgo sva se pa zadržala pri tipki stop, ki na začetku ni delovala. To sva nato popravila s spremembo tipke in delčkom kode. Če bi si izmislila še kakšno nadgradnjo tega projekta, bi takoj še dodala dodatko LED diodo. Ta bi se prižgala, ko bi se miza ob premikanju ustavila. Lahko bi dodala tudi kakšen časovnik, ki bi blokiral tipko gor in dol za nekaj sekund, po tem ko smo se ustavili s tipko stop.
