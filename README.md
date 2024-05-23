@@ -16,6 +16,8 @@ KOSOVNICA:
 - Elektro motor
 
 
+ 
+
 
 VHODI:
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
