@@ -49,4 +49,6 @@ IZHODI:
 
 
 KOMENTAR:
-Projekt deluje dobro. Zelo dolgo sva se pa zadržala pri tipki stop, ki na začetku ni delovala. To sva nato popravila s spremembo tipke in delčkom kode. Če bi si izmislila še kakšno nadgradnjo tega projekta, bi takoj še dodala dodatko LED diodo. Ta bi se prižgala, ko bi se miza ob premikanju ustavila. Lahko bi dodala tudi kakšen časovnik, ki bi blokiral tipko gor in dol za nekaj sekund, po tem ko smo se ustavili s tipko stop.
+V videju lahko vidimo, da imamo tri tipke in motorček. Ko pritisnemo desno tipko, se motorček začne premikati v desno stran. Ravno obratno pa naredi tipka na levi, ki začne premikati motorček v levo stran. V terminal se pa izpisujejo vrednosti, ki predstavljajo položaj mize. Imamo tudi tipko stop, ki zaustavi dviganje in spuščanje mize. Dodatek vsem tem pa sta rdeča in zelena LED dioda, ki se prižgeta ob premikanju motorčka v določeno stran - Desna (zelena) in Leva (rdeča). Ko je motorček zaustavljen, ni prižgana nobena. 
+
+Projekt deluje dobro. Zelo dolgo sva se pa zadržala pri tipki stop, ki na začetku ni delovala. To sva nato popravila s spremembo tipke in delčkom kode. Če bi si izmislila še kakšno nadgradnjo tega projekta, bi takoj še dodala dodatno LED diodo. Ta bi se prižgala, ko bi se miza ob premikanju ustavila. Lahko bi dodala tudi kakšen časovnik, ki bi blokiral tipko gor in dol za nekaj sekund, po tem ko smo se ustavili s tipko stop.
